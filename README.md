@@ -1,13 +1,13 @@
 <p align="center">
- <a href="https://www.linkedin.com/in/mynrjad/">
+ <a href="https://www.linkedin.com/in/liljjian/">
     <img alt="linkedin profile" title="Follow Me on LinkedIn" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=linkedin&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
- <a href="https://twitter.com/mynrjad">
+ <a href="https://twitter.com/liljjian">
     <img alt="twitter profile" title="Follow Me on Twitter" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=twitter&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
-<a href="https://www.instagram.com/mynrjad/">
+<a href="https://www.instagram.com/liljjian/">
     <img alt="Instagram profile" title="Follow Me on Insta" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=instagram&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
