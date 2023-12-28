@@ -28,7 +28,7 @@
 </div>  
 
 <div style="text-align: justify" align="center">
-I'm <b>RJ</b> from Dr. Filemon C. Aguilar Memorial College of Las Piñas, I talk about design and web development! I enjoy working with individuals and assisting them in discovering their passion for technology and web development. I am a Graphic Designer and Creative Director at TS who appreciates UI/UX design and strives to create strong community interactions while advocating open-source technologies. 
+I'm <b>RJ</b> from Dr. Filemon C. Aguilar Memorial College of Las Piñas, I talk about design and web development! I enjoy working with individuals and assisting them in discovering their passion for technology and web development. I am a Graphic Designer and Creative Director at TS who appreciates UI/UX design and strives to create strong community interactions while advocating open-source technologies. I love working closely with the GitHub Philippines Team! 
 </div> 
 
 ##
